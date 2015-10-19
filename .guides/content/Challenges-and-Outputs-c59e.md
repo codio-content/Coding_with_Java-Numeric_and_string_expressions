@@ -1,0 +1,7 @@
+As you learn to write code, Codio will assess your knowledge with practical challenges that require you to solve a problem and output the result. Codio will assess your code when the 'Check it' button is pressed. Don't worry about making mistakes you can recheck your solution as many times as you want.
+
+## Output
+
+You have already seen how to print and display text in a previous section by changing the text between the quotations `System.out.println("")`. Output for challenges need to be different and identifiable and that is why you need to use a similar looking line `Codio.out.println("")` for all the output a challenge requires.
+
+{Check It!|assessment}(test-1363438530)
