@@ -12,6 +12,5 @@ public class Challenge {
         // Write your code below.
 
         System.out.println(user);
-        System.out.println(age);
     }
 }

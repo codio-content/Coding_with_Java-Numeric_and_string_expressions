@@ -2,4 +2,4 @@ The code on the left is there for you to play with. Feel free to come back to th
 
 You can run this code by pressing the button below.
 
-{Run the code on the left}(./run-user.sh Experiment.java)
+{Run the code on the left}(./Experiment.sh)

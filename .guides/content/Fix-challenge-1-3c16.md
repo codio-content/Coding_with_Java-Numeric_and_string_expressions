@@ -1,13 +1,22 @@
-To run your code, press this button {Run}(node run-user.js ./4-fix/fix1.js)
 
 {Check It!|assessment}(test-1842827966)
 
 |||guidance
 ### Solution
-```javascript
-input0 = 'Mike'
-str = input0 + ', hello!'
-output (str)
+```java
+public class Challenge {
+
+    public static void main(String[] args) {
+
+        // Write your code below.
+
+        String name = "Jules";
+        String message = "Hello " + name;
+                  
+        System.out.println(message);
+      
+    }
+}
 ```
 |||
 

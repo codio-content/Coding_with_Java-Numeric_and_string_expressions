@@ -2,7 +2,7 @@ You will often make mistakes when writing code. Eventually get better at underst
 
 The code on the left contains a syntax error. This type of error is caused by out of place characters in your code that Java does not no how to interpret. Let's run the code to see the error message.
 
-{Run the code on the left}(./examples/introduction/SyntaxError.sh)
+{Run the code on the left}(./content/introduction/SyntaxError.sh)
 
 Once you have run the code, you will see this error appear.
 

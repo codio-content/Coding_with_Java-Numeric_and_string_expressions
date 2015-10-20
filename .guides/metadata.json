@@ -21,11 +21,11 @@
   },
   {
    "id": "83c6e943-b10a-e78-3845-fa1cca92aea",
-   "title": "1. 1. Preparation video",
+   "title": "Preparation video",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1--1--Preparation-video-83c6.md",
+   "content-file": ".guides/content/Preparation-video-83c6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -39,7 +39,7 @@
      "action": "close"
     },
     {
-     "path": "examples/introduction/Println.java",
+     "path": "content/introduction/Println.java",
      "panel": 0,
      "action": "open"
     }
@@ -61,7 +61,7 @@
      "action": "close"
     },
     {
-     "path": "examples/introduction/SyntaxError.java",
+     "path": "content/introduction/SyntaxError.java",
      "panel": 0,
      "action": "open"
     }
@@ -137,7 +137,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.flode",
+     "path": "content/numeric/abc.flode",
      "panel": 0,
      "action": "open"
     }
@@ -161,7 +161,7 @@
      "action": "close"
     },
     {
-     "path": "2-numeric/abc.js",
+     "path": "content/numeric/Abc.java",
      "panel": 0,
      "action": "open"
     }
@@ -183,7 +183,7 @@
      "action": "close"
     },
     {
-     "path": "addition.js",
+     "path": "challenges/numeric_addition/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -205,7 +205,7 @@
      "action": "close"
     },
     {
-     "path": "abc2.js",
+     "path": "challenges/numeric_abc/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -246,7 +246,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix1.js",
+     "path": "challenges/errors_1/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -268,7 +268,7 @@
      "action": "close"
     },
     {
-     "path": "4-fix/fix2.js",
+     "path": "challenges/errors_2/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -290,7 +290,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/string.flode",
+     "path": "content/strings/strings.flode",
      "panel": 0,
      "action": "open"
     }
@@ -314,7 +314,7 @@
      "action": "close"
     },
     {
-     "path": "3-string/string.js",
+     "path": "content/strings/Strings.java",
      "panel": 0,
      "action": "open"
     }
@@ -328,15 +328,15 @@
    "teacherOnly": false
   },
   {
-   "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
-   "title": " Joining strings",
+   "id": "363d20df-28be-7eaf-5467-911c1940816c",
+   "title": "Joining strings",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "join-string.js",
+     "path": "challenges/strings_joining/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -344,21 +344,21 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-Joining-strings-abcc.md",
+   "content-file": ".guides/content/Joining-strings-363d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "363d20df-28be-7eaf-5467-911c1940816c",
-   "title": "Joining more strings",
+   "id": "abccdbf7-3d65-3bea-cb70-1a9b892a20e",
+   "title": "Surrounding strings",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "join-string2.js",
+     "path": "challenges/strings_surrounding/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -366,21 +366,21 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Joining-more-strings-363d.md",
+   "content-file": ".guides/content/Surrounding-strings-abcc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "abe2d821-1377-2298-72ab-10fee0b0b04c",
-   "title": "Strings containing numbers",
+   "title": "Combining Strings and Numbers",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "strnum.js",
+     "path": "content/strings/StringsNumbers.java",
      "panel": 0,
      "action": "open"
     }
@@ -388,53 +388,18 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Strings-containing-numbers-abe2.md",
+   "content-file": ".guides/content/Combining-Strings-and-Numbers-abe2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "558b3be-a72d-245d-3bf4-84d97bbcb754",
-   "title": "Escaping",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "3-string/escape.js",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
+   "id": "3872b08f-6f9-4591-8c39-e9a18fc1cb34",
+   "title": "The End",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Escaping-558b.md",
-   "chapter": true,
-   "reset": [
-    "3-string"
-   ],
-   "teacherOnly": false
-  },
-  {
-   "id": "e27ec7b9-a5cd-8308-ab0d-31a2ceab9d21",
-   "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "escape.js",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Challenge-e27e.md",
+   "content-file": ".guides/content/The-End-3872.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

@@ -1,6 +1,6 @@
 Codio will always give you interactive examples when learning anythign new. Press the button below to run the code and then let's step through the code to understand what is happening. 
 
-{Run the code on the left}(./examples/introduction/Println.sh)
+{Run the code on the left}(./content/introduction/Println.sh)
 
 ## The setup
 

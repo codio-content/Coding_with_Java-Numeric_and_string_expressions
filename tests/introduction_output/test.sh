@@ -1,6 +1,5 @@
 #!/bin/bash
 
-TEST_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd /home/codio/workspace/challenges/introduction_output
 
 javac Challenge.java
@@ -18,5 +17,5 @@ if [ "$OUTPUT1" == "my first challenge" ]; then
 fi
 
 echo ""
-echo "Your code is not outputting the correct values"
+echo "Your code is not outputing the correct value"
 exit 1

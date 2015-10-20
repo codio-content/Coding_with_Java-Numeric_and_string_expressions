@@ -1,18 +1,22 @@
-To run your code, press this button {Run}(node run-user.js addition.js)
 
-## Challenge 
 {Check It!|assessment}(test-3763781759)
 
 |||guidance
 ### Solution
-```javascript
-// Inputs
-input0 = 3
+```java
+public class Challenge {
 
-// More code
-num = input0 + 12
+    public static void main(String[] args) {
+      
+        int number1 = Integer.parseInt(args[0]);
+      
+        // Write your code below.
 
-// Outputs
-output( num )
+        int result = number1 + 12;
+        System.out.println(result);
+        
+
+    }
+}
 ```
 |||

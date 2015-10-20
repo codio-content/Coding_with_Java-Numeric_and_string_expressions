@@ -2,6 +2,6 @@ As you learn to write code, Codio will assess your knowledge with practical chal
 
 ## Output
 
-You have already seen how to print and display text in a previous section by changing the text between the quotations `System.out.println("")`. Output for challenges need to be different and identifiable and that is why you need to use a similar looking line `Codio.out.println("")` for all the output a challenge requires.
+You have already seen how to print and display text in a previous section by changing the text between the quotations `System.out.println("")`. 
 
 {Check It!|assessment}(test-1363438530)
