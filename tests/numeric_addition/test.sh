@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "<h3>Program Output</h3>"
+
 cd /home/codio/workspace/challenges/numeric_addition
 
 javac Challenge.java
