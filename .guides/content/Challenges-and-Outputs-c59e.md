@@ -1,4 +1,4 @@
-As you learn to write code, Codio will assess your knowledge with practical challenges that require you to solve a problem and output the result. Codio will assess your code when the 'Check it' button is pressed. Don't worry about making mistakes you can recheck your solution as many times as you want.
+As you learn to write code, Codio will assess your knowledge with practical challenges that require you to solve a problem and output the result. Codio will assess your code when the 'Check it' button is pressed. Don't worry about making mistakes, you can recheck your solution as many times as you want.
 
 ## Output
 

@@ -1,4 +1,4 @@
-Codio will always give you interactive examples when learning anythign new. Press the button below to run the code and then let's step through the code to understand what is happening. 
+Codio will always give you interactive examples when learning anything new. Press the button below to run the code and then let's step through the code to understand what is happening. 
 
 {Run the code on the left}(./content/introduction/Println.sh)
 
@@ -20,7 +20,7 @@ public class Println {
 }
 ```
 
-These lines tell Java that your program might use the Codio's Challenge system and finally that this code file can direclty be run by Java, indicated by this line: `public static void main(String[] args)`. In future units we will look at theses lines more closely but for now just write your code below this line: `// Write your code below.`
+These lines tell Java that your program might use the Codio's Challenge system and finally that this code file can directly be run by Java, indicated by this line: `public static void main(String[] args)`. In future units we will look at these lines more closely but for now just write your code below this line: `// Write your code below.`
 
 ## Comments
 
@@ -46,4 +46,4 @@ while comments using this approach can span multiple lines.
 
 ## Outputs
 
-Finally, to output something form our program we use the `System.out.println();` function and put whatever we wanted outputed to the screen in between the `()`. This example is output the words `"Hello World!"`. Try changing what is being ouput by editing the text in between `""`.
+Finally, to output something from our program we use the `System.out.println();` function and put whatever we wanted outputted to the screen in between the `()`. This example is output the words `"Hello World!"`. Try changing what is being ouput by editing the text in between `""` then press the 'RUN THE CODE ON THE LEFT' button at the top of this page.

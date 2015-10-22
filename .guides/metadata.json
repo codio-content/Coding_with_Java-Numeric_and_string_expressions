@@ -79,6 +79,10 @@
    "title": "Challenges and Outputs",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "challenges/introduction_output/Challenge.java",
      "panel": 0,
      "action": "open"
@@ -97,6 +101,10 @@
    "title": "Challenges and Inputs",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "challenges/introduction_input/Challenge.java",
      "panel": 0,
      "action": "open"
@@ -114,6 +122,10 @@
    "id": "53327dfc-212b-2523-902a-784326731880",
    "title": "Experiments",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "Experiment.java",
      "panel": 0,
@@ -396,7 +408,13 @@
   {
    "id": "3872b08f-6f9-4591-8c39-e9a18fc1cb34",
    "title": "The End",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-End-3872.md",
