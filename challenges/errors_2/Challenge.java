@@ -7,8 +7,8 @@ public class Challenge {
 
         name = "Jules";
         String message = "Hello " + name;
-                  
+
         System.out.println(message);
-      
+
     }
 }
