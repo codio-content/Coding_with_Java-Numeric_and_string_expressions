@@ -1,0 +1,242 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1271833963",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/strings_surrounding/test.sh",
+   "instructions": "You will be given one input Strings called `str1`. Your job is to surround the `str1` with a brackets `\"()\"` and output the result. \n\nFor example if the value of `str1` is `\"one\"` your program should output `\"(one)\"`.",
+   "name": "Surrounding strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1363438530",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/introduction_output/test.sh",
+   "instructions": "Write a program that outputs \"my first challenge\". We have given you a working program, all you need to do now is replace the text `replace this` with `my first challenge` and then press the `Check It!` button to pass your first challenge! ",
+   "name": "Introduction Outputs"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1842827966",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/errors_1/test.sh",
+   "instructions": "Fix the broken code. \n\n**Hint:** you have seen this error before.",
+   "name": "Fix 1"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1902380530",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/strings_joining/test.sh",
+   "instructions": "You will be given two input Strings called `str1` and `str2`. Your job is to join the two strings together with a single space between them and output the result. \n\nFor example if the value of `str1` is `\"one\"` and `str2 `is `\"two\"` your program should output `\"one two\"`.",
+   "name": "Joining strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2100988232",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node abc2-test.js",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ A * (B + \\frac{C}{3}) $.",
+   "name": "A*(B + C/3)"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2281574249",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node strnum-test.js",
+   "instructions": "We are passing in two **numbers** as inputs. You should join them together into a single string.\n\n**Tip:** if you simply add these numbers together, they will be added together as numbers, not a string. Can you figure out the trick to ensure they are added together as a string? You should experiment in the code and you will hopefully figure the trick out.\n",
+   "name": "Strings containing numbers"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2383491788",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "This challenge is the other way round. \n\nWe provide you with a string input that is either 'true' or 'false'. You should output a number 1 if 'true' or 0 if 'false'.",
+   "name": "True or False"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3029070503",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/numeric_abc/test.sh",
+   "instructions": "You have been given three input variables `a`, `b` and `c`. Write a program that calculates $ a * (b + \\frac{c}{3}) $ and outputs the result.\n\n",
+   "name": "A*(B + C/3)"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3417544426",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with a person’s age and you need to determine which school level the person falls within. \n\n- If 6 to 11 output ‘primary school’ \n- If 12 to 18 output ‘secondary school’\n- If neither, then output ‘NA’\n\nThis challenge requires you to use and `if`, an `else if` and an `else` statement\n\n**Tip** : to help check the ranges, you should should check the lower end of each range in each decision and then branch from there. \n\nRemember `<=` and `>=`? You should use them.",
+   "name": "Categories"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3617130863",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/errors_2/test.sh",
+   "instructions": "Fix the broken code.",
+   "name": "Fix 2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3763781759",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/numeric_addition/test.sh",
+   "instructions": "Your program is given one input called `number1`. You need to do is add `12` to it and output the result.",
+   "name": "Addition"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3910093431",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "node escape-test.js",
+   "instructions": "We pass in 2 strings, *input0* and *input1*. You should output another string in the format\n\n```javascript\ninput0's done\nand input1's done\n```\n-  with a new line between the two\n- and where input0 and input1 are replaced with the input string\n- **Important:** pay special attention to not include unnecessary spaces before your new line character, as this creates a string that might look like what is expected, but actually has a few more characters.\n",
+   "name": "Escaped strings"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-393850037",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with 2 input values which determine the speed of 2 cars. \n\n- If both cars are travelling at more than 70 then output ‘2 fast cars'\n- If one car only is moving at more than 70, output '1 fast cars'\n- Otherwise output 'no fast cars'",
+   "name": "Fast Cars 2"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3996896524",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "./tests/introduction_input/test.sh",
+   "instructions": "You have been given two input variables, a string named `user` and a number named `age`. Write a program that outputs the two input variables `user` and `age`. \n\n- Firstly press the `Check it` button to run the code you have been given.\n- The first variable is already being output but not the second. \n- Copy the line with the following code `System.out.println(user);` and paste it below. \n- Then replace `user` with `age` . \n- Now press the `Check it!` button and you should see both outputs and pass the challenge.\n",
+   "name": "Introduction Inputs"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4186476499",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "",
+   "instructions": "You are provided with a number input which will be either 1 or 0. \n\nIf the number is 1, output ‘On’, if 0 output ‘Off’.",
+   "name": "1 or 0"
+  }
+ }
+]
